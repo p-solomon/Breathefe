@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    scroll-behavior: smooth;
+    color: #fff;
+}
+
+
+
+input[type="text"],
+input[type="password"],
+button,
+textarea {
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  padding: 0.25rem;
+    width: 400px;
+  border-radius: 0.5rem;
+}
+
+
+
+label,
+button {
+  margin-top: 0.5rem;
+}
+
+
+/* 
+* {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+  }  */
